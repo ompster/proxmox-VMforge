@@ -1,6 +1,10 @@
-# Proxmox Win11 VM Automation
+# Proxmox VMforge
+
+![Proxmox VMforge](https://raw.githubusercontent.com/ompster/proxmox-VMforge/main/header.png)
 
 > ⚠️ **WARNING:** This is for internal/lab testing only. Do NOT use in production environments.
+
+📝 **[Read the full blog post](https://nathanash.com/posts/proxmox-vmforge/)**
 
 Terraform + PowerShell automation for spinning up Windows 11 VMs on Proxmox. Zero-touch — creates the VM, boots from ISO, and sends keypresses to start the installer automatically.
 
