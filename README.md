@@ -1,5 +1,7 @@
 # Proxmox Win11 VM Automation
 
+> ⚠️ **WARNING:** This is for internal/lab testing only. Do NOT use in production environments.
+
 Terraform + PowerShell automation for spinning up Windows 11 VMs on Proxmox. Zero-touch — creates the VM, boots from ISO, and sends keypresses to start the installer automatically.
 
 ## Prerequisites
